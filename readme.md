@@ -60,6 +60,7 @@ The project is running now.
 
 ## Authors
 
-- Abhishek Verma (B.Tech. IT-2022 - 1805213004) [[Resume](https://tinyurl.com/AbhishekVerma2022), [LinkedIn](https://www.linkedin.com/in/vermabhi22/), [GitHub](https://github.com/vermabhi)]
-- Harsh Jalan (B.Tech. IT-2022 - 1805213022) [[Resume](https://drive.google.com/file/d/1jnff7QGMQCzQ-94qnRQrfVpKiEZ7_4YC/view?usp=drivesdk), [LinkedIn](https://www.linkedin.com/in/harsh-jalan-2ba960214), [GitHub](https://github.com/hars-sh)]
-- Sanjay Gautam (B.Tech. IT-2022 - 1805213049) [[Resume](https://drive.google.com/file/d/11TLswpyq4JaL3_3SIUAhlel7P-rxOttF/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/sanjay-gautam-2b4403211), [GitHub](https://github.com/SanjayGau)]
+Arjit Prajapati ( 1901330100059)TL
+Ankit Soni ( 1901330100048 )
+Amit Gupta ( 1901330100041 )
+Daravi Joshi (1901330100086)
